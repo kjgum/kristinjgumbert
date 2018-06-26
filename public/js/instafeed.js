@@ -4,7 +4,7 @@
     accessToken: '7233319241.1677ed0.5c0b29a207b74fa5bdbe2f4206426a54',
     get: 'user',
     userId: '7233319241',
-    limit: 20,
+    limit: 18,
     resolution: 'low_resolution',
     template: '<div class="instaThumb"><a href="{{link}}" target="_blank"><img data-lazy="      {{image}}" alt="{{caption}}" /></a></div>',
     after: function(){
